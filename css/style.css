@@ -63,5 +63,12 @@ img{
     margin-top: -60px;
     padding-bottom: 60px;
     background-color: #dcdcdc;
+    display: grid;
 }
+.writers{     
+    float: right;
+    width: 600px;
+    height: 200px;
+}
+
     
