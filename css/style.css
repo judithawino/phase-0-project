@@ -58,4 +58,10 @@ img{
     line-height: 50px;
     
 }
+.past-projects{
+    padding-top: 60px;
+    margin-top: -60px;
+    padding-bottom: 60px;
+    background-color: #dcdcdc;
+}
     
