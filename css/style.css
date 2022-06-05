@@ -86,5 +86,20 @@ img{
     
 }
 
+#details div{
+    
+    float: left;  
+    
+    text-align: center;
+    width: 25%;
+}
+#details div a{
+    background-color: inherit;
+    text-decoration: underline;
+    text-align: center;
+    color: #000;
+    font-size: 15px;
+}
+
 
     
