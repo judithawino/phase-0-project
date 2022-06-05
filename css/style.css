@@ -3,7 +3,8 @@ html, body{
     min-height: 0px;
 }
 body{
-    background-color: aqua;
+    background-color: lightblue;
+    opacity: 15;
     font-family: sans-serif;
     background-size: 100%;
 }
@@ -14,18 +15,8 @@ nav{
     width: 110vw;
     height: 100%;
     padding: 20px 22px;
-    text-align: center;   
-    
+    text-align: center;    
    
-    
-   /* text-align: center;
-    position: relative;
-    margin: 50px;    
-    overflow: hidden;
-    background-color: #333;
-    display: block;  
-    padding: 20px 22px; */
-    
 }
 a{
     padding-left: 20px;
@@ -44,54 +35,27 @@ h1{
     text-align: center;
     color: #000;
 }
+h2{
+    font-style: italic;
+}
 .photo{
 
     float: right;
 }
 img{
-    border-radius: 10px;
-    width: 200px;
-    height: 200px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
     
     
 }
 .Intro{
     
-    background-color: #333;
+    background-color: #fff;
     text-align:center;
     margin-top: 10px;
     line-height: 50px;
     
 }
     
-    
-
-
-/*ul#nav-bar{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-    
-      
-}
-li a{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    
-    
-    
-    }
-li a:hover{
-    background-color: #111;
-    }
-   img {
-  image-orientation:from-image;
-  width: 50;
-  height: auto;
-}
-*/
